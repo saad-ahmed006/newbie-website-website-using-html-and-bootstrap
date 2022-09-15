@@ -1,0 +1,189 @@
+body{
+    font-family: 'Baloo Bhai', cursive;
+}
+
+#slidemainpara{
+    margin-bottom: 200px;
+}
+.navbar{
+    font-family: 'Baloo Bhai', cursive;
+    
+    
+} 
+#slidemainpara  h1{
+    
+    font-size: 90px;
+}
+#slidemainpara  p{
+    
+    font-size: 30px;
+}
+.navbar li a:hover{
+    text-decoration: underline;
+}
+
+.navbar img{
+    width: 200px;   
+
+}
+
+
+
+
+
+                                  /* main */
+
+
+
+
+
+
+
+
+
+
+#image{
+    height: 600px;
+}
+
+#secondslideicon{
+    font-size: 150px; 
+    font-family: 'Baloo Bhai', cursive;
+    
+}
+#slidemainpara h5{
+    font-family: 'Baloo Bhai', cursive;
+    
+    font-size: 40px;
+}
+
+@media screen and (max-width:768px) {
+
+    #slidemainpara  h1{
+    
+    font-size: 40px;
+}
+
+#slidemainpara  p{
+    
+    font-size: 20px;
+}
+
+
+
+}
+
+
+
+
+
+
+#slider-bottom-para{
+    background-color: rgb(235, 232, 232);
+    height: 100px;
+    font-family: 'Baloo Bhai', cursive;
+   
+}
+
+@media screen and (max-width:991px) {
+
+#slider-bottom-para{
+    background-color: rgb(235, 232, 232);
+    height: 280px;
+    text-align: center;
+   
+}
+}
+
+
+
+
+
+/* #builtwithcase{
+    border-bottom: 3px solid black;
+    width: 700px;
+margin-left: 380px;
+}
+
+#builtwithcasep{
+   width: 900px;
+   margin-left: 280px;
+}
+
+
+/* 
+#builtwithcasep-icon {
+   
+    justify-content: center;
+    align-items: center;
+} */
+/* #builtwithcasep-icon img{
+width: 80px;
+}
+
+ */ 
+
+ #builtwithcasep-icon img{
+     width: 50px;
+     margin: 30px;
+
+ }
+
+
+
+
+
+
+
+ .image-laptop img{
+border-radius: 10px;
+height: 300px;
+width: 600px;
+ }
+
+
+ @media screen and (max-width:1199px) {
+     
+
+    .image-laptop img{
+        margin-top: 30px;
+      
+         }
+ }
+
+
+
+
+
+
+
+
+
+
+ .footer-image img{
+width: 250px;
+
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
